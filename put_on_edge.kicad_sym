@@ -7,7 +7,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 15.24 0)
@@ -262,7 +262,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.97 0)
@@ -518,7 +518,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.97 0)
@@ -774,7 +774,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -6.35 13.97 0)
@@ -1029,7 +1029,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -6.35 13.97 0)
@@ -1284,7 +1284,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.89 13.97 0)
@@ -1539,7 +1539,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.382 13.716 0)
@@ -1740,7 +1740,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.636 14.224 0)
@@ -1887,7 +1887,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -12.954 21.844 0)
@@ -2250,7 +2250,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.97 0)
@@ -2509,7 +2509,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.97 0)
@@ -2768,7 +2768,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.128 13.716 0)
@@ -3005,7 +3005,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -2.54 16.51 0)
@@ -3260,7 +3260,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.128 13.97 0)
@@ -3519,7 +3519,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.128 13.97 0)
@@ -3778,7 +3778,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.97 0)
@@ -4033,7 +4033,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.97 0)
@@ -4288,7 +4288,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -6.35 12.7 0)
@@ -4453,7 +4453,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.128 13.716 0)
@@ -4672,7 +4672,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.128 13.716 0)
@@ -4891,7 +4891,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -6.35 16.51 0)
@@ -5326,7 +5326,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -12.192 31.75 0)
@@ -5707,7 +5707,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.128 13.97 0)
@@ -5872,7 +5872,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.874 13.716 0)
@@ -6091,7 +6091,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.382 13.97 0)
@@ -6346,7 +6346,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.97 0)
@@ -6781,7 +6781,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.716 0)
@@ -6928,7 +6928,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.382 13.97 0)
@@ -7111,7 +7111,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -8.382 13.716 0)
@@ -7276,7 +7276,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 13.97 0)
@@ -7441,7 +7441,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -7.62 15.24 0)
@@ -7696,7 +7696,7 @@
 			(offset 1.016)
 		)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -10.16 7.62 0)
