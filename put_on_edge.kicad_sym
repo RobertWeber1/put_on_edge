@@ -8031,9 +8031,86 @@
 				)
 			)
 		)
+		(symbol "026_USB_PD_device_1_0"
+			(pin no_connect line
+				(at 10.16 3.81 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 10.16 1.27 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 10.16 -1.27 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
 		(symbol "026_USB_PD_device_1_1"
 			(pin bidirectional line
 				(at -12.7 5.08 0)
+				(length 2.54)
+				(name "DM"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -12.7 2.54 0)
 				(length 2.54)
 				(name "DP"
 					(effects
@@ -8050,10 +8127,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at -12.7 2.54 0)
+			(pin output line
+				(at -12.7 -1.27 0)
 				(length 2.54)
-				(name "DM"
+				(name "SCL"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8068,26 +8145,8 @@
 					)
 				)
 			)
-			(pin output line
-				(at -12.7 0 0)
-				(length 2.54)
-				(name "SCL"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at -12.7 -2.54 0)
+				(at -12.7 -3.81 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -8096,7 +8155,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8114,7 +8173,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8232,9 +8291,86 @@
 				)
 			)
 		)
+		(symbol "026_USB_PD_host_1_0"
+			(pin no_connect line
+				(at 10.16 3.81 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 10.16 1.27 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 10.16 -1.27 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
 		(symbol "026_USB_PD_host_1_1"
 			(pin bidirectional line
 				(at -12.7 5.08 0)
+				(length 2.54)
+				(name "DM"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -12.7 2.54 0)
 				(length 2.54)
 				(name "DP"
 					(effects
@@ -8251,10 +8387,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at -12.7 2.54 0)
+			(pin input line
+				(at -12.7 -1.27 0)
 				(length 2.54)
-				(name "DM"
+				(name "SCL"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8269,26 +8405,8 @@
 					)
 				)
 			)
-			(pin input line
-				(at -12.7 0 0)
-				(length 2.54)
-				(name "SCL"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at -12.7 -2.54 0)
+				(at -12.7 -3.81 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -8297,7 +8415,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8315,7 +8433,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
